@@ -33,7 +33,7 @@
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
             "required": true,
-            "value": "8857202"
+            "value": "12243201"
         },
         "MONGO_DB_URL": {
             "description": "fill there mongo Database url else don't change",
@@ -43,7 +43,7 @@
         "API_HASH": {
             "description": "your Api Hash from my.telegram.org/apps",
             "required": false,
-            "value": "52860a7dcd0a344400264b8b9292b99b"
+            "value": "384aba46e24aa4d10471de105f4eaf09"
         },
         "HEROKU_MODE": {
             "description": "Warning ⚠️! don't Change this, if you change this it will cause of banning your heroku account!",
